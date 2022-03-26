@@ -1,0 +1,53 @@
+.navi{
+
+    
+   padding:0px;
+   margin:0px;
+   width: 100%;
+   min-width: 10%;
+   margin-right: 2rem;
+   height: 10vh;
+   background-color: black;
+   color: blanchedalmond;
+   display: flex;
+   flex-direction:row;
+   justify-content:center;
+   flex-wrap: wrap;
+   align-items: center;
+   
+   
+}
+
+
+ ul li{
+    list-style: none;
+    margin-right: 42px;
+    
+    
+    
+
+}
+.list-item a{
+   text-decoration-line: none;
+   color:coral;
+
+}
+
+/* .nav li a{
+    text-decoration-line: none;
+    color: azure;
+} */
+ul li:first-child{
+    margin: auto;
+    margin-left: 2rem;
+    color: chocolate;
+    font-weight: bolder;
+  font-family: "Pacifico", cursive;
+   letter-spacing: 2px;
+    
+}
+
+ul li a:hover{
+    color: orangered;
+    
+}

@@ -1,0 +1,31 @@
+.footercss{
+    background-color: black;
+     margin-left: 10px;
+   max-width: 97%;
+   height: auto;
+   
+}
+
+.fhead{
+  color:coral;
+  font-family: "Pacifico", cursive;
+}
+
+.txtcolor{
+  color: grey;
+  text-decoration: none;
+  list-style: none;
+}
+.inpt{
+  border-radius: 13px;
+  background-color:whitesmoke;
+}
+li a{
+  text-decoration: none;
+  list-style: none;
+  color: gray;
+}
+
+li a:hover{
+    color: orangered;
+}

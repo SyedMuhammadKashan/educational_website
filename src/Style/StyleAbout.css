@@ -1,0 +1,28 @@
+.abut-head{
+font-family: "Pacifico", cursive;
+text-align: center;
+}
+.spacng{
+  height: auto
+  
+}
+.para{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: larger;
+}
+
+ .impic {
+  border-radius: 1003px;
+  margin-left: 203px;
+
+  
+}
+
+.parapoint{
+   font-family: "Pacifico", cursive;
+   color:rgba(241, 127, 21, 0.678);
+}
+.infotxt{
+  font-family: "Pacifico", cursive;
+}

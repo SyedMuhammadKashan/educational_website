@@ -1,0 +1,33 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.bannerpic {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 70vh;
+}
+
+.sec1 {
+  box-sizing: border-box;
+  /* border: 2px solid red; */
+  /* height: 600vh; */
+  margin-top: 23px;
+}
+
+.sec-head {
+  font-family: "Pacifico", cursive;
+}
+
+.fonts-iconsstyle {
+  position: relative;
+  left: 49px;
+  padding-left: 13px;
+  margin-bottom: 13px;
+}
+.para-style {
+  font-family: "Pacifico", cursive;
+}
